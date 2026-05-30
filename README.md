@@ -24,9 +24,9 @@
 
 🌱 Interested in Renewable Energy & Sustainable Mobility
 
-📚 Continuously learning emerging technologies
+📚 Continuously Learning Emerging Technologies
 
-🎯 Aspiring to build a successful career in the EV Industry
+🎯 Aspiring to Build a Successful Career in the EV Industry
 
 ---
 
@@ -78,6 +78,21 @@
 
 ---
 
+# 📈 Learning Progress
+
+```text
+Electric Vehicle Technology     ██████████████████ 95%
+Battery Management Systems      █████████████████ 90%
+Electronics                     █████████████████ 90%
+Python                          ███████████████ 85%
+Linux                           ██████████████ 80%
+AutoCAD                         ███████████████ 85%
+CATIA                           ███████████████ 85%
+Altium Designer                 ██████████████ 80%
+```
+
+---
+
 # 🏭 Industrial Experience
 
 ## GT Electronic India Pvt. Ltd.
@@ -110,9 +125,43 @@
 
 ---
 
-# 🎯 Career Objective
+# 🎯 Future Goals
 
-To contribute to the advancement of Electric Vehicle technologies through innovation, continuous learning, and practical engineering solutions while supporting sustainable transportation and clean energy initiatives.
+🚗 Build a Successful Career in the Electric Vehicle Industry
+
+🔋 Develop Expertise in Battery Management Systems
+
+⚡ Gain Advanced Knowledge in EV Charging Infrastructure
+
+🏭 Contribute to EV Manufacturing and R&D
+
+🌱 Promote Sustainable Mobility and Clean Energy
+
+💻 Strengthen Skills in Python, Linux, MATLAB, CATIA, AutoCAD & Altium
+
+🌍 Support the Global Transition to Sustainable Transportation
+
+🚀 Work on Innovative EV Technologies
+
+🏆 Become a Skilled EV Engineer
+
+---
+
+# 🌟 Areas of Interest
+
+🔋 Electric Vehicles
+
+⚡ Electronics Engineering
+
+🚗 Sustainable Transportation
+
+🌱 Renewable Energy
+
+💻 Technology & Innovation
+
+📚 Engineering Research
+
+🤖 Artificial Intelligence
 
 ---
 
@@ -120,17 +169,9 @@ To contribute to the advancement of Electric Vehicle technologies through innova
 
 📧 Email: [saisanjaikumar1212@gmail.com](mailto:saisanjaikumar1212@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/tamiz07
+💼 LinkedIn: [www.linkedin.com/in/tamiz07](http://www.linkedin.com/in/tamiz07)
 
-🐙 GitHub: https://github.com/TAMILARASAN8989
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TAMILARASAN8989&theme=onedark&row=2&column=4"/>
-</p>
+🐙 GitHub: github.com/TAMILARASAN8989
 
 ---
 
@@ -138,7 +179,7 @@ To contribute to the advancement of Electric Vehicle technologies through innova
 
 ### 🚗 Driving Towards A Sustainable Future ⚡
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks For Visiting My Profile ⭐
 
 </div>
 
