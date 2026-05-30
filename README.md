@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/TAMILARASAN8989&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?TAMILARASAN8989=https://github.com/TAMILARASAN8989&show_icons=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/TAMILARASAN8989)
 
