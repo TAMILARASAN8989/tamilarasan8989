@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,100:0072ff&text=TAMIZHARASAN&fontSize=55&fontAlignY=40&desc=Electric%20Vehicle%20Technology%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,100:0072ff&text=TAMIZHARASAN&fontSize=55&fontAlignY=40&desc=Founder%20of%20EV%20TECHCO%20|%20EV%20Technology%20Enthusiast&descAlignY=60"/>
 
 # 👋 Hi, I'm Tamizharasan
 
-### 🔋 Electric Vehicle Technology Enthusiast | ⚡ Electronics Learner | 🚗 Future EV Engineer
+### 🚗 Founder of EV TECHCO | 🔋 EV Technology Enthusiast | ⚡ Future EV Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Electric+Vehicle+Technology;Battery+Management+Systems;Sustainable+Mobility;Clean+Energy+Solutions;Future+EV+Engineer;Continuous+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Founder+of+EV+TECHCO;Electric+Vehicle+Technology;Battery+Management+Systems;Sustainable+Mobility;Clean+Energy+Solutions;Future+EV+Engineer;Continuous+Learner" />
 
 </div>
 
 ---
 
 # 🚀 About Me
+
+🚗 Founder of EV TECHCO
 
 🔋 Passionate about Electric Vehicle Technology
 
@@ -30,12 +32,36 @@
 
 ---
 
+# 🚀 Founder & Leadership
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Founder+of+EV+TECHCO;Driving+Innovation+in+Electric+Vehicles;Building+the+Future+of+Sustainable+Mobility" />
+
+</div>
+
+### ⚡ EV TECHCO
+
+🚗 Founder of EV TECHCO
+
+🔋 Focused on Electric Vehicle Technology & Innovation
+
+⚡ Promoting Sustainable Mobility Solutions
+
+🌱 Exploring Future Transportation Technologies
+
+🏭 Passionate About EV Manufacturing & Development
+
+📚 Committed to Continuous Learning & Research
+
+🎯 Vision: Accelerating the adoption of clean and sustainable transportation through technology and innovation.
+
+---
+
 # 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
-
 </p>
 
 ---
@@ -72,6 +98,7 @@
 * Electric Vehicle Technology
 * EV Charging Infrastructure
 * Lithium-Ion Battery Technology
+* Electric Powertrain Fundamentals
 * Electrical & Electronic Systems
 * Renewable Energy Technologies
 * Sustainable Mobility Solutions
@@ -80,16 +107,21 @@
 
 # 📈 Learning Progress
 
-```text
 Electric Vehicle Technology     ██████████████████ 95%
+
 Battery Management Systems      █████████████████ 90%
+
 Electronics                     █████████████████ 90%
+
 Python                          ███████████████ 85%
+
 Linux                           ██████████████ 80%
+
 AutoCAD                         ███████████████ 85%
+
 CATIA                           ███████████████ 85%
+
 Altium Designer                 ██████████████ 80%
-```
 
 ---
 
@@ -112,6 +144,8 @@ Altium Designer                 ██████████████ 80%
 ---
 
 # 🏆 Key Achievements
+
+🥇 Founder of EV TECHCO
 
 🥇 EV Technology Learner
 
@@ -176,6 +210,8 @@ Altium Designer                 ██████████████ 80%
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Founder+of+EV+TECHCO;Driving+Towards+A+Sustainable+Future;Keep+Learning+Keep+Growing;Future+EV+Engineer" />
 
 ### 🚗 Driving Towards A Sustainable Future ⚡
 
