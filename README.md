@@ -253,55 +253,36 @@ Vivado Synthesis
 FPGA Implementation
         ↓
 VLSI / ASIC Fundamentals
-🎯 Career Interests
-
-I am looking to build a strong career in core electrical and electronics engineering, while developing advanced skills in digital hardware and semiconductor technologies.
-
-Target Areas
-
-⚡ Electrical Design Engineer
-⚡ Electrical & Electronics Engineer
-⚡ Core EEE Engineering
-⚡ Electrical Hardware Design
-🔌 Power Electronics
-💻 RTL Design Engineer
-🔲 FPGA Engineer
-🔧 Embedded Systems Engineer
-🏭 Industrial Electrical Engineering
-🧠 VLSI / Semiconductor Engineering
-
-🚀 Future Goals
-Build strong expertise in EEE core engineering
-Become proficient in electrical design
-Master AutoCAD Electrical
-Develop advanced MATLAB simulation skills
-Strengthen Verilog & RTL design
-Gain deeper FPGA design experience
-Explore VLSI and semiconductor technologies
-Develop practical embedded hardware solutions
-Work on industrial electrical and electronics projects
-Contribute to innovative engineering products
 🌱 Engineering Philosophy
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=LEARN+%E2%86%92+DESIGN+%E2%86%92+SIMULATE;BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;TURNING+THEORY+INTO+PRACTICAL+SOLUTIONS"/>
 Learn → Design → Simulate → Build → Test → Improve
+<br>
 
 I believe engineering is strongest when theory is converted into practical hardware and real-world solutions.
 
+</div>
+📈 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TAMILARASAN8989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=TAMILARASAN8989&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAMILARASAN8989&theme=tokyo-night&hide_border=true&area=true"/> </div>
+🐍 Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity/master/images/github-contribution-grid-snake.svg" width="100%"/> </div>
 🌍 Connect With Me
-
-📧 Email: saisanjaikumar1212@gmail.com
-
-💼 LinkedIn: linkedin.com/in/tamiz07
-
-🐙 GitHub: github.com/TAMILARASAN8989
+<div align="center"> <a href="mailto:saisanjaikumar1212@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/tamiz07"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/TAMILARASAN8989"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
 
 📍 Puducherry, India
 
-<div align="center">
+</div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&pause=900&color=00FFAA&center=true&vCenter=true&width=900&lines=Electrical+Engineering+%7C+Electrical+Design;EEE+Core+%7C+VLSI+%7C+Embedded;Digital+Hardware+%7C+PCB+Design;Designing+Hardware.+Building+Solutions.;Learn+%7C+Build+%7C+Innovate"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Electrical+Engineering+%7C+Electrical+Design;EEE+Core+%7C+VLSI+%7C+Embedded;Designing+Hardware.+Building+Solutions.;Learn+%7C+Build+%7C+Innovate" />
+<br><br>
 
 ⚡ Electrical Engineering × Digital Hardware × Embedded Systems
 Building Skills. Designing Solutions. Engineering the Future.
-
-</div>
-
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0072ff,100:00c6ff&section=footer&text=BUILD.%20DESIGN.%20INNOVATE.&fontSize=30&fontColor=ffffff&animation=fadeIn"/> </div> ```
