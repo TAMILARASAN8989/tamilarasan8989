@@ -32,11 +32,7 @@ My interests combine **electrical engineering, electronics, digital hardware and
 
 ---
 
-# 🚀 Founder — EV TECHCO
 
-## ⚡ EV TECHCO
-
-I am the **Founder of EV TECHCO**, with an interest in exploring electric vehicle technology, electrical systems and sustainable mobility.
 
 ### Areas of Interest
 
