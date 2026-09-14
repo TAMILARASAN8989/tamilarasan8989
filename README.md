@@ -253,4 +253,55 @@ Vivado Synthesis
 FPGA Implementation
         ↓
 VLSI / ASIC Fundamentals
+🎯 Career Interests
+
+I am looking to build a strong career in core electrical and electronics engineering, while developing advanced skills in digital hardware and semiconductor technologies.
+
+Target Areas
+
+⚡ Electrical Design Engineer
+⚡ Electrical & Electronics Engineer
+⚡ Core EEE Engineering
+⚡ Electrical Hardware Design
+🔌 Power Electronics
+💻 RTL Design Engineer
+🔲 FPGA Engineer
+🔧 Embedded Systems Engineer
+🏭 Industrial Electrical Engineering
+🧠 VLSI / Semiconductor Engineering
+
+🚀 Future Goals
+Build strong expertise in EEE core engineering
+Become proficient in electrical design
+Master AutoCAD Electrical
+Develop advanced MATLAB simulation skills
+Strengthen Verilog & RTL design
+Gain deeper FPGA design experience
+Explore VLSI and semiconductor technologies
+Develop practical embedded hardware solutions
+Work on industrial electrical and electronics projects
+Contribute to innovative engineering products
+🌱 Engineering Philosophy
+Learn → Design → Simulate → Build → Test → Improve
+
+I believe engineering is strongest when theory is converted into practical hardware and real-world solutions.
+
+🌍 Connect With Me
+
+📧 Email: saisanjaikumar1212@gmail.com
+
+💼 LinkedIn: linkedin.com/in/tamiz07
+
+🐙 GitHub: github.com/TAMILARASAN8989
+
+📍 Puducherry, India
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Electrical+Engineering+%7C+Electrical+Design;EEE+Core+%7C+VLSI+%7C+Embedded;Designing+Hardware.+Building+Solutions.;Learn+%7C+Build+%7C+Innovate" />
+
+⚡ Electrical Engineering × Digital Hardware × Embedded Systems
+Building Skills. Designing Solutions. Engineering the Future.
+
+</div>
 
