@@ -253,36 +253,3 @@ Vivado Synthesis
 FPGA Implementation
         ↓
 VLSI / ASIC Fundamentals
-🌱 Engineering Philosophy
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=LEARN+%E2%86%92+DESIGN+%E2%86%92+SIMULATE;BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;TURNING+THEORY+INTO+PRACTICAL+SOLUTIONS"/>
-Learn → Design → Simulate → Build → Test → Improve
-<br>
-
-I believe engineering is strongest when theory is converted into practical hardware and real-world solutions.
-
-</div>
-📈 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TAMILARASAN8989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=TAMILARASAN8989&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAMILARASAN8989&theme=tokyo-night&hide_border=true&area=true"/> </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity/master/images/github-contribution-grid-snake.svg" width="100%"/> </div>
-🌍 Connect With Me
-<div align="center"> <a href="mailto:saisanjaikumar1212@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/tamiz07"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/TAMILARASAN8989"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
-
-📍 Puducherry, India
-
-</div>
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&pause=900&color=00FFAA&center=true&vCenter=true&width=900&lines=Electrical+Engineering+%7C+Electrical+Design;EEE+Core+%7C+VLSI+%7C+Embedded;Digital+Hardware+%7C+PCB+Design;Designing+Hardware.+Building+Solutions.;Learn+%7C+Build+%7C+Innovate"/>
-
-<br><br>
-
-⚡ Electrical Engineering × Digital Hardware × Embedded Systems
-Building Skills. Designing Solutions. Engineering the Future.
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0072ff,100:00c6ff&section=footer&text=BUILD.%20DESIGN.%20INNOVATE.&fontSize=30&fontColor=ffffff&animation=fadeIn"/> </div> ```
